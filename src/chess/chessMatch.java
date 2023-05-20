@@ -24,6 +24,6 @@ public class chessMatch {
     }
     private void initialSetup(){ //Colocar as peças no tabuleiro
         board.placePiece(new rook(board,color.WHITE),new Position(2,1));
-        board.placePiece(new King(board,color.BLACK),new Position(0,1));
+        board.placePiece(new King(board,color.BLACK),new Position(2,2));
     }
 }
