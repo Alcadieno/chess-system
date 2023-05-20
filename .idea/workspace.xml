@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5807a25f-be9e-4fa4-81d6-fe55f9c83a9d" name="Changes" comment="placing pieces on the board">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BoardGame/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BoardGame/Board.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/chessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/chessMatch.java" afterDir="false" />
-    </list>
+    <list default="true" id="5807a25f-be9e-4fa4-81d6-fe55f9c83a9d" name="Changes" comment="board exceptions" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684365780429</updated>
       <workItem from="1684365781523" duration="1974000" />
-      <workItem from="1684541911073" duration="8465000" />
+      <workItem from="1684541911073" duration="9191000" />
     </task>
     <task id="LOCAL-00001" summary="board">
       <created>1684367167510</created>
@@ -101,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684552967309</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="board exceptions">
+      <created>1684554321676</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684554321676</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +124,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="board" />
     <MESSAGE value="placing pieces on the board" />
-    <option name="LAST_COMMIT_MESSAGE" value="placing pieces on the board" />
+    <MESSAGE value="board exceptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="board exceptions" />
   </component>
 </project>
