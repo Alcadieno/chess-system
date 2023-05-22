@@ -1,7 +1,7 @@
 package chess;
 import BoardGame.Board;
 import BoardGame.Piece;
-
+//ESSA CLASSE IMPLEMENTA O QUE CADA PEÇA DO JOGO PRECISA TER EM COMUM
 public class chessPiece extends Piece {
     private color color;
 
